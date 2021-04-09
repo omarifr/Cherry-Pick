@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="B.cs" />
     <Compile Include="C.cs" />
+    <Compile Include="D.cs" />
     <Compile Include="EsViernes.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
